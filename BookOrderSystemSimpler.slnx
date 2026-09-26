@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BookOrderSystemSimpler.vcxproj" Id="383bc1df-7fd3-4420-b174-ade68b1eff5b" />
+</Solution>
