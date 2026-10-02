@@ -58,12 +58,8 @@ void ResetScreen() {
 	system("cls"); 
   }
 void GoBackToMainMenu() {
-#ifdef _WIN32
 	cout << "Press Any Key To Go Back Main Menu.....";
 	system("pause>0"); 
-#else
-    system("read -p 'Press Any Key To Go Back Main Menu.....' var")
-#endif
 }
 vector<string> SplitString(string S1, string Sperators = "#//#")
 {
